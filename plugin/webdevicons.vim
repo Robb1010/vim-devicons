@@ -278,7 +278,7 @@ function! s:setDictionaries()
         \ 'tsx'      : '',
         \ 'jl'       : '',
         \ 'pp'       : '',
-        \ 'vue'      : '﵂',
+        \ 'vue'      : '󰡄',
         \ 'elm'      : '',
         \ 'swift'    : '',
         \ 'xcplayground' : '',
